@@ -29,10 +29,10 @@ create new item called: free-style-2
 
 ![docker jenkins](https://github.com/nourmohamed99/sprints-jenkins/assets/88977873/01e10427-6abd-45f8-ba08-f4ec00f4c2f8)
 
+![sprints-jenkins](https://github.com/nourmohamed99/sprints-jenkins/assets/88977873/607c2d65-e831-4bb0-af1e-93fdec126259)
 
 ![success](https://github.com/nourmohamed99/sprints-jenkins/assets/88977873
 /fc0f11f0-b154-455f-b432-77340d8400ce)
 
-![success1](https://github.com/nourmohamed99/sprints-jenkins/assets/88977873/80f219c2-5734-44ca-92d5-073b94470abd)
 
 
